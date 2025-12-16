@@ -1,38 +1,164 @@
-<h1 align="center">Hi 👋, I'm YETINTHALA SAKETH</h1>
-<h3 align="center">a passionate data analyst from india</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saketh-code-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="saketh-code-rgb" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Yetinthala%20Saketh&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saketh-code-rgb" alt="saketh-code-rgb" /></a> </p>
+### 🚀 Data Science Engineer | AI & Machine Learning Enthusiast  
 
-- 🔭 I’m currently working on **CRM OF BUSINESS DATA**
+📍 India | 🎓 VIT Vellore  
 
-- 🌱 I’m currently learning **AZURE,AI,SALESFORCE**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://www.zapfolio.in/saketh-neon](https://www.zapfolio.in/saketh-neon)
+---
 
-- 💬 Ask me about **FINANCE .**
+## 👨‍💻 About Me  
 
-- 📫 How to reach me **yetinthalasaketh@gmail.com**
+🔹 I am a **Computer Science Engineer specializing in Data Science, AI & Machine Learning**  
+🔹 Strong hands-on experience in **Data Analysis, ML, DL & Business Intelligence**  
+🔹 Passionate about transforming **raw data into impactful insights**  
+🔹 Experienced in **end-to-end data pipelines**, from cleaning to deployment  
 
-- 📄 Know about my experiences [file:///C:/Users/india/Downloads/Saketh_Yetinthala_Resume%20(2).pdf](file:///C:/Users/india/Downloads/Saketh_Yetinthala_Resume%20(2).pdf)
+---
 
-- ⚡ Fun fact **I WILL BE HAPPY ALWAYS**
+## 🧠 What I Do  
 
-<h3 align="left">Connect with me:</h3>
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning & Deep Learning  
+- 🧬 NLP & Recommendation Systems  
+- 📈 Business & Finance Analytics  
+- ☁️ Azure AI & Cloud Concepts  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🔹 Programming & Data
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saketh-yetinthala-77b407273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saketh-yetinthala-77b407273" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### 🔹 ML / AI / Data Science
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saketh-code-rgb&show_icons=true&locale=en&layout=compact" alt="saketh-code-rgb" /></p>
+### 🔹 Visualization & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saketh-code-rgb&show_icons=true&locale=en" alt="saketh-code-rgb" /></p>
+### 🔹 Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,aws,git,github,vscode" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saketh-code-rgb&" alt="saketh-code-rgb" /></p>
+---
 
+## 🚀 Featured Data Science Projects  
 
+### 🐾 Stray Animal Behaviour Monitoring (AI | Deep Learning)
+🔧 **Python, TensorFlow, Keras, OpenCV, CNN, LSTM, DeepLabCut**  
+- Built a real-time AI system to detect animal emotions & behavior using CCTV  
+- Implemented pose estimation and sequence modeling  
+- Optimized for real-time and edge deployment  
+- 🏆 **Patent Applied**
+
+---
+
+### 🎬 Next-Gen Movie Recommender (NLP)
+🔧 **Python, Pandas, Scikit-learn, TF-IDF, Cosine Similarity, Power BI**  
+- Analyzed **45K+ movie records**  
+- Built content-based recommender system  
+- Created interactive Power BI dashboards  
+
+---
+
+### 😄 Facial Emotion Recognition
+🔧 **Python, TensorFlow, Keras, OpenCV**  
+- CNN-based real-time emotion detection  
+- Accuracy improved using augmentation & regularization  
+
+---
+
+### 💳 Credit Card Fraud Detection
+🔧 **Python, Scikit-learn, SMOTE**  
+- Handled severe class imbalance  
+- Achieved high Recall, F1-score & ROC-AUC  
+
+---
+
+### 🏥 Disease Prediction System
+🔧 **Python, ML Models, Power BI**  
+- Early disease prediction using patient data  
+- Visualized health insights with dashboards  
+
+---
+
+## 💼 Experience  
+
+### 📊 IceCream Labs – Moto.Vista.AI  
+**Product Evaluation & Business Insights**
+- Evaluated AI-generated insights & dashboards  
+- Suggested UX/UI & KPI improvements  
+- Validated analytical accuracy for SMEs  
+
+### 🎓 Data Science Trainee – Nucot  
+- Built ML models & analytics workflows  
+- Worked on Supervised & Unsupervised learning  
+- Designed Power BI & Tableau dashboards  
+
+---
+
+## 🎓 Education  
+
+🎓 **B.Tech – Computer Science (Business Systems)**  
+📍 Vellore Institute of Technology, Vellore  
+
+---
+
+## 📜 Certifications  
+
+- Microsoft Azure Fundamentals  
+- Microsoft Azure AI Essentials  
+- Azure AI: Workloads & ML on Azure  
+- Google Analytics  
+- ServiceNow IT Professional  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=saketh-code-rgb&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh-code-rgb&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/saketh-yetinthala-77b407273" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:yetinthalasaketh@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/saketh-code-rgb">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+⚡ *“Data tells stories — I make them actionable.”*  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
+
+</div>
 
 
