@@ -1,8 +1,9 @@
 # <p align="center">🤖 Yetinthala Saketh</p>
 ### <p align="center">🚀 Data Science Engineer | AI & Machine Learning Specialist</p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/University-VIT_Vellore-red?style=flat-square&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-VIT_Vellore-red?style=for-the-badge&logo=university&logoColor=white" />
 </p>
 
 ---
@@ -13,14 +14,15 @@ I am a **Computer Science Engineer** specializing in AI and ML. I excel at turni
 ---
 
 ## 🛠 Technical Ecosystem
+
 <div align="center">
 
 | **Core Stack** | **Visual Indicators** |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **AI & Vision** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
-| **Business Intel** | ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **AI & Vision** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Business Intel** | ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 
 </div>
 
@@ -32,28 +34,21 @@ I am a **Computer Science Engineer** specializing in AI and ML. I excel at turni
 > **Patent Applied | Deep Learning | Computer Vision**
 * **The Goal**: Enhancing public safety via real-time behavior analysis.
 * **Architecture**: Integrated **DeepLabCut** for pose estimation with **CNN-LSTM** for sequence-based emotion detection.
-* **Deployment**: Pipeline optimized for edge-device processing.
-
+* **Deployment**: Pipeline optimized for automated insight generation and edge-device processing.
 
 
 ### 📉 Customer Churn Analytics 
 > **Machine Learning | Business Intelligence**
-* **Result**: Achieved a verified **84.50% Accuracy** using Random Forest.
-* **Key Insights**: Identified **Customer Service Calls** and **Monthly Billing** as the top 2 drivers of attrition.
-* **Outcome**: Built an automated dashboard to flag high-risk customers for retention.
+* **Verified Performance**: Achieved a model accuracy of **84.50%**.
+* **Key Drivers**: Identified **Customer Service Calls (0.35)** and **Monthly Billing (0.26)** as critical indicators.
+* **Business Impact**: Developed an automated classification system to flag high-risk customers for targeted retention strategies.
 
-
-
-### 🎬 Next-Gen Movie Recommender 
-> **NLP | Content-Based Filtering**
-* **Scale**: Processed over **45,000 movie records**.
-* **Engine**: Utilized **TF-IDF Vectorization** and **Cosine Similarity** for high-relevance ranking.
 
 ---
 
 ## 💼 Experience & Credentials
-* 🧪 **IceCream Labs (Moto.Vista.AI)**: Evaluated AI-generated business insights for operational usability.
-* 🎓 **B.Tech CSE (Business Systems)**: Specialized in Enterprise Architecture and Financial Management at VIT Vellore.
+* 🧪 **IceCream Labs (Moto.Vista.AI)**: Evaluated AI prototypes for SME usability and analytical accuracy.
+* 🎓 **B.Tech CSE (Business Systems)**: Specialized in Business Analytics and Enterprise Architecture at VIT Vellore.
 * 📜 **Microsoft Certified**: Azure Fundamentals & Azure AI Essentials.
 * 📜 **Google Certified**: Professional Data Analytics.
 
@@ -68,20 +63,31 @@ I am a **Computer Science Engineer** specializing in AI and ML. I excel at turni
 ---
 
 ## 🤝 Connect & Collaborate
-<p align="center">
+<div align="center">
+  
+| **Platform** | **Contact Information** | **Action** |
+| :--- | :--- | :--- |
+| **LinkedIn** | Professional Networking | [**Visit Profile**](https://www.linkedin.com/in/yetinthala-saketh-77b407273) |
+| **Gmail** | yetinthalasaketh@gmail.com | [**Send Email**](mailto:yetinthalasaketh@gmail.com) |
+| **GitHub** | Version Control & Collaboration | [**Follow Me**](https://github.com/saketh-code-rgb) |
+
+<br>
+
 <a href="https://www.linkedin.com/in/yetinthala-saketh-77b407273" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:yetinthalasaketh@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/saketh-code-rgb" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
+
+</div>
 
 <p align="center">
+  <br>
   <i>"Data tells stories — I make them actionable."</i>
 </p>
