@@ -1,119 +1,87 @@
-🐕 Stray Animal Behaviour Monitoring
-https://via.placeholder.com/800x400/4CAF50/ffffff?text=AI+Powered+Animal+Behavior+Analysis
-Python, DeepLabCut, TensorFlow, LSTM, CNN, OpenCV
+# <p align="center">🤖 Yetinthala Saketh</p>
+### <p align="center">🚀 Data Science Engineer | AI & Machine Learning Specialist</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-VIT_Vellore-red?style=flat-square&logo=university&logoColor=white" />
+</p>
 
-Built a real-time AI system to detect animal emotions and behaviors from CCTV footage.
+---
 
-Implemented pose estimation, emotion detection, and sequence analysis using CNNs and LSTMs.
+## 🙋 About Me
+I am a **Computer Science Engineer** specializing in AI and ML. I excel at turning complex raw data into actionable insights through predictive modeling and interactive storytelling. My expertise lies in training, validating, and testing Supervised and Unsupervised models with high precision and minimal error.
 
-Patent submitted for impact on public safety and urban monitoring.
+---
 
-🎬 Next-Gen Movie Recommender (NLP)
-https://via.placeholder.com/800x400/2196F3/ffffff?text=NLP+Powered+Movie+Recommendations
-Python, Pandas, TF-IDF, Cosine Similarity, NLTK, Power BI
+## 🛠 Technical Ecosystem
+<div align="center">
 
-Developed a content-based recommender system analyzing 45K+ movie records.
+| **Core Stack** | **Visual Indicators** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **AI & Vision** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **Business Intel** | ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) |
 
-Used NLP preprocessing and Cosine Similarity for ranking.
+</div>
 
-Built interactive Power BI dashboards for trend analysis.
+---
 
-😊 Facial Emotion Recognition
-https://via.placeholder.com/800x400/FF9800/ffffff?text=Real-time+Emotion+Detection
-Python, TensorFlow, Keras, OpenCV
+## 🚀 High-Impact Project Showcases
 
-Built a CNN model for real-time human emotion classification.
+### 🐾 Stray Animal Behaviour Monitoring 
+> **Patent Applied | Deep Learning | Computer Vision**
+* **The Goal**: Enhancing public safety via real-time behavior analysis.
+* **Architecture**: Integrated **DeepLabCut** for pose estimation with **CNN-LSTM** for sequence-based emotion detection.
+* **Deployment**: Pipeline optimized for edge-device processing.
 
-Improved accuracy using data augmentation, dropout, and batch normalization.
 
-Integrated with OpenCV for live webcam prediction.
 
-💳 Credit Card Fraud Detection
-https://via.placeholder.com/800x400/F44336/ffffff?text=Machine+Learning+for+Fraud+Detection
-Python, Scikit-learn, Pandas, SMOTE
+### 📉 Customer Churn Analytics 
+> **Machine Learning | Business Intelligence**
+* **Result**: Achieved a verified **84.50% Accuracy** using Random Forest.
+* **Key Insights**: Identified **Customer Service Calls** and **Monthly Billing** as the top 2 drivers of attrition.
+* **Outcome**: Built an automated dashboard to flag high-risk customers for retention.
 
-Developed fraud detection models using Logistic Regression, Decision Trees, and Random Forests.
 
-Handled class imbalance with SMOTE and optimized performance using GridSearchCV.
 
-Achieved high recall, F1-score, and ROC-AUC.
+### 🎬 Next-Gen Movie Recommender 
+> **NLP | Content-Based Filtering**
+* **Scale**: Processed over **45,000 movie records**.
+* **Engine**: Utilized **TF-IDF Vectorization** and **Cosine Similarity** for high-relevance ranking.
 
-🏥 Disease Prediction Using ML
-https://via.placeholder.com/800x400/9C27B0/ffffff?text=ML+for+Early+Disease+Prediction
-Python, Scikit-learn, Power BI
+---
 
-Designed ML models (Random Forest, SVM, KNN) for early disease prediction.
+## 💼 Experience & Credentials
+* 🧪 **IceCream Labs (Moto.Vista.AI)**: Evaluated AI-generated business insights for operational usability.
+* 🎓 **B.Tech CSE (Business Systems)**: Specialized in Enterprise Architecture and Financial Management at VIT Vellore.
+* 📜 **Microsoft Certified**: Azure Fundamentals & Azure AI Essentials.
+* 📜 **Google Certified**: Professional Data Analytics.
 
-Visualized risk factors and trends using interactive Power BI dashboards.
+---
 
-💼 Professional Experience
-Product Evaluation & Business Insights — IceCream Labs (Moto. Vista.AI)
-November 2025
+## 📊 Real-Time Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saketh-code-rgb&show_icons=true&theme=tokyonight&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh-code-rgb&layout=compact&theme=tokyonight&border_radius=10" height="170" />
+</p>
 
-Tested AI prototype, evaluated generated insights, and provided actionable business feedback.
+---
 
-Suggested UX/UI improvements and workflow automation enhancements.
+## 🤝 Connect & Collaborate
+<p align="center">
+<a href="https://www.linkedin.com/in/yetinthala-saketh-77b407273" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:yetinthalasaketh@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/saketh-code-rgb" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
-Data Science Trainee — Nucot
-*Aug 2025 - Dec 2025*
-
-Completed intensive training in Python, SQL, and Machine Learning.
-
-Built predictive models and automated analytics workflows.
-
-Designed Power BI & Tableau dashboards for KPI visualization.
-
-Hands-on Training — Perpetual Solutions
-Trained under Mr. Pradeep Varadarajan in Python, Power BI, SQL, Tableau, and ML.
-
-Executed end-to-end data projects and developed strong analytical storytelling skills.
-
-🏆 Certifications
-https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white https://img.shields.io/badge/ServiceNow-1F74B4?style=for-the-badge&logo=servicenow&logoColor=white
-
-Microsoft Azure Fundamentals — Microsoft
-
-Microsoft Azure AI Essentials — Microsoft
-
-Google Analytics Certification — Google
-
-ServiceNow IT Professional Certification — ServiceNow
-
-Azure AI Essentials: Workloads & ML on Azure — Microsoft
-
-🎓 Education
-Vellore Institute of Technology (VIT), Vellore
-*2021 - 2025*
-B.Tech in Computer Science Engineering (Business Systems)
-Specialized in ERP, Business Analytics, Financial Management, and Enterprise Architecture.
-
-Narayana Junior College, Vijayawada
-*2019 - 2021*
-Intermediate (MPC — Mathematics, Physics, Chemistry)
-
-Built strong analytical and problem-solving skills.
-
-Prepared for JEE Mains/Advanced.
-
-Rathnam High School, Nellore
-*2018 - 2019*
-Secondary Education (Class X)
-
-Awarded for discipline, academic consistency, and school-level achievements.
-
-📜 Publications & Patents
-Patent Applied:
-"Stray Animal Behaviour Monitoring in Residents"
-
-An innovative AI-based animal surveillance and emotion detection system utilizing CNN and LSTM architectures for accurate behavioral monitoring.
-
-📬 Connect With Me
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-Phone: 7396578274
-
-⭐ “Data is the new oil, but AI is the engine that refines it.”
-📈 Turning data into decisions, one model at a time.
-
-https://via.placeholder.com/1200x100/0d1117/ffffff?text=Thanks+for+visiting!+%25E2%259C%25A8+Let%2527s+build+the+future+with+data.
+<p align="center">
+  <i>"Data tells stories — I make them actionable."</i>
+</p>
