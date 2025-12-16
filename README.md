@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Yetinthala%20Saketh&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Yetinthala%20Saketh&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
 ### 🚀 Data Science Engineer | AI & Machine Learning Enthusiast  
-
 📍 India | 🎓 VIT Vellore  
 
 </div>
@@ -12,10 +11,9 @@
 
 ## 👨‍💻 About Me  
 
-🔹 I am a **Computer Science Engineer specializing in Data Science, AI & Machine Learning**  
-🔹 Strong hands-on experience in **Data Analysis, ML, DL & Business Intelligence**  
-🔹 Passionate about transforming **raw data into impactful insights**  
-🔹 Experienced in **end-to-end data pipelines**, from cleaning to deployment  
+I am a **Computer Science Engineer specializing in Data Science, AI, and Machine Learning**.  
+I enjoy turning **raw data into insights**, building **intelligent models**, and creating  
+**business-driven analytics solutions**.
 
 ---
 
@@ -29,89 +27,89 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 
-### 🔹 Programming & Data
+### 🧩 Programming & Data  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,sql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 </p>
 
-### 🔹 ML / AI / Data Science
+### 🤖 Machine Learning & AI  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-### 🔹 Visualization & Tools
+### 📊 Data Visualization & Tools  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" />
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" />
 </p>
 
-### 🔹 Platforms
+### ☁️ Platforms & Dev Tools  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Data Science Projects  
 
-### 🐾 Stray Animal Behaviour Monitoring (AI | Deep Learning)
-🔧 **Python, TensorFlow, Keras, OpenCV, CNN, LSTM, DeepLabCut**  
-- Built a real-time AI system to detect animal emotions & behavior using CCTV  
-- Implemented pose estimation and sequence modeling  
+### 🐾 Stray Animal Behaviour Monitoring (AI | Deep Learning)  
+**Tech:** Python, TensorFlow, Keras, OpenCV, CNN, LSTM, DeepLabCut  
+- Real-time AI system to detect animal emotions & behavior via CCTV  
+- Pose estimation and sequence modeling  
 - Optimized for real-time and edge deployment  
 - 🏆 **Patent Applied**
 
 ---
 
-### 🎬 Next-Gen Movie Recommender (NLP)
-🔧 **Python, Pandas, Scikit-learn, TF-IDF, Cosine Similarity, Power BI**  
-- Analyzed **45K+ movie records**  
-- Built content-based recommender system  
-- Created interactive Power BI dashboards  
+### 🎬 Next-Gen Movie Recommender (NLP)  
+**Tech:** Python, Pandas, Scikit-learn, TF-IDF, Cosine Similarity, Power BI  
+- Built content-based recommender using **45K+ movies**  
+- NLP preprocessing & similarity ranking  
+- Interactive dashboards for insights  
 
 ---
 
-### 😄 Facial Emotion Recognition
-🔧 **Python, TensorFlow, Keras, OpenCV**  
-- CNN-based real-time emotion detection  
-- Accuracy improved using augmentation & regularization  
+### 😄 Facial Emotion Recognition  
+**Tech:** Python, TensorFlow, Keras, OpenCV  
+- CNN-based real-time emotion classification  
+- Improved accuracy using augmentation & regularization  
 
 ---
 
-### 💳 Credit Card Fraud Detection
-🔧 **Python, Scikit-learn, SMOTE**  
+### 💳 Credit Card Fraud Detection  
+**Tech:** Python, Scikit-learn, SMOTE  
 - Handled severe class imbalance  
-- Achieved high Recall, F1-score & ROC-AUC  
+- High Recall, F1-Score & ROC-AUC  
 
 ---
 
-### 🏥 Disease Prediction System
-🔧 **Python, ML Models, Power BI**  
-- Early disease prediction using patient data  
-- Visualized health insights with dashboards  
+### 🏥 Disease Prediction System  
+**Tech:** Python, Machine Learning, Power BI  
+- Early disease prediction models  
+- Visualized patient risk insights  
 
 ---
 
 ## 💼 Experience  
 
 ### 📊 IceCream Labs – Moto.Vista.AI  
-**Product Evaluation & Business Insights**
-- Evaluated AI-generated insights & dashboards  
+**Product Evaluation & Business Insights**  
+- Evaluated AI-generated dashboards & insights  
 - Suggested UX/UI & KPI improvements  
 - Validated analytical accuracy for SMEs  
 
 ### 🎓 Data Science Trainee – Nucot  
-- Built ML models & analytics workflows  
-- Worked on Supervised & Unsupervised learning  
+- Built ML models & automated analytics workflows  
+- Supervised & Unsupervised learning projects  
 - Designed Power BI & Tableau dashboards  
 
 ---
 
 ## 🎓 Education  
 
-🎓 **B.Tech – Computer Science (Business Systems)**  
-📍 Vellore Institute of Technology, Vellore  
+🎓 **B.Tech – Computer Science Engineering (Business Systems)**  
+Vellore Institute of Technology, Vellore  
 
 ---
 
@@ -128,11 +126,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saketh-code-rgb&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saketh-code-rgb&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh-code-rgb&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh-code-rgb&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -140,15 +138,15 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/saketh-yetinthala-77b407273" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:yetinthalasaketh@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://github.com/saketh-code-rgb">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://www.linkedin.com/in/saketh-yetinthala-77b407273" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:yetinthalasaketh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/saketh-code-rgb">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
@@ -157,7 +155,7 @@
 
 ⚡ *“Data tells stories — I make them actionable.”*  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
 
