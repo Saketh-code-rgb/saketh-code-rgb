@@ -2,6 +2,9 @@
 ### <p align="center">🚀 Data Science Engineer | AI & Machine Learning Specialist</p>
 
 <p align="center">
+  <a href="https://rawdatasaketh.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-success?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/University-VIT_Vellore-red?style=for-the-badge&logo=university&logoColor=white" />
 </p>
@@ -36,13 +39,11 @@ I am a **Computer Science Engineer** specializing in AI and ML. I excel at turni
 * **Architecture**: Integrated **DeepLabCut** for pose estimation with **CNN-LSTM** for sequence-based emotion detection.
 * **Deployment**: Pipeline optimized for automated insight generation and edge-device processing.
 
-
 ### 📉 Customer Churn Analytics 
 > **Machine Learning | Business Intelligence**
 * **Verified Performance**: Achieved a model accuracy of **84.50%**.
 * **Key Drivers**: Identified **Customer Service Calls (0.35)** and **Monthly Billing (0.26)** as critical indicators.
 * **Business Impact**: Developed an automated classification system to flag high-risk customers for targeted retention strategies.
-
 
 ---
 
@@ -64,15 +65,20 @@ I am a **Computer Science Engineer** specializing in AI and ML. I excel at turni
 
 ## 🤝 Connect & Collaborate
 <div align="center">
-  
+
 | **Platform** | **Contact Information** | **Action** |
 | :--- | :--- | :--- |
+| **Portfolio** | Interactive Showcase | [**Visit Website**](https://rawdatasaketh.netlify.app) |
 | **LinkedIn** | Professional Networking | [**Visit Profile**](https://www.linkedin.com/in/yetinthala-saketh-77b407273) |
 | **Gmail** | yetinthalasaketh@gmail.com | [**Send Email**](mailto:yetinthalasaketh@gmail.com) |
 | **GitHub** | Version Control & Collaboration | [**Follow Me**](https://github.com/saketh-code-rgb) |
 
 <br>
 
+<a href="https://rawdatasaketh.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yetinthala-saketh-77b407273" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
