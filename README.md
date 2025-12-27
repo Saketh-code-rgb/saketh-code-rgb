@@ -1,5 +1,5 @@
 # <p align="center">🤖 Yetinthala Saketh</p>
-### <p align="center">🚀 Data Science Engineer | AI & Machine Learning Specialist</p>
+### <p align="center">🚀 Data Science Engineer</p>
 
 <p align="center">
   <a href="https://rawdatasaketh.netlify.app" target="_blank">
@@ -12,7 +12,7 @@
 ---
 
 ## 🙋 About Me
-I am a **Computer Science Engineer** specializing in AI and ML. I excel at turning complex raw data into actionable insights through predictive modeling and interactive storytelling. My expertise lies in training, validating, and testing Supervised and Unsupervised models with high precision and minimal error.
+I am a **Data Science Engineer** specializing in **AI and Machine Learning**. I excel at turning complex raw data into actionable insights through predictive modeling, deep learning, and interactive storytelling. My expertise lies in training, validating, and testing Supervised and Unsupervised models with high precision and minimal error.
 
 ---
 
