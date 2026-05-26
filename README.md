@@ -120,14 +120,6 @@ Evaluated AI prototypes for SME usability and analytical accuracy.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saketh-code-rgb&show_icons=true&theme=dark&bg_color=0d0c0a&border_color=c94f1e&icon_color=c94f1e&title_color=f0ece4&text_color=b5ab9c&border_radius=8" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-code-rgb&layout=compact&theme=dark&bg_color=0d0c0a&border_color=c94f1e&title_color=f0ece4&text_color=b5ab9c&border_radius=8" height="165" />
-</p>
-
 ---
 
 ## Connect
