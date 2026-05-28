@@ -1,5 +1,5 @@
 <h1 align="center">Yetinthala Saketh</h1>
-<h3 align="center">Patent Holder · Project Manager · AI & Data Engineer</h3>
+<h3 align="center">AI & Product Builder · PM @ Vyuha Innovation Foundation · CS + Business (VIT × TCS)</h3>
 
 <p align="center">
   <a href="https://background24.netlify.app" target="_blank">
@@ -35,6 +35,23 @@ I don't just build models — I scope problems, own delivery, and drive outcomes
 
 ---
 
+## Why I Fit — What Startups & Teams Are Looking For
+
+Most job descriptions say the same thing. Here's how I actually match:
+
+| What You're Looking For | How I Demonstrate It |
+| :--- | :--- |
+| ✅ **Strong interest in AI & Product Management** | Published an AI patent. Certified in Azure AI, Google Analytics, and Product Strategy. Currently building AI-enabled CRMs and platforms at Vyuha. |
+| ✅ **Passion for construction, experimentation, rapid learning** | Built and filed a full AI system from scratch — dataset, model, docs, and filing — in under a year as a student with zero prior IP experience. |
+| ✅ **Can think creatively** | Designed a stray animal behavior detection pipeline using existing CCTV infrastructure. No new hardware. Existing cameras → real-time AI alerts. |
+| ✅ **Enthusiasm for startups, technology, and user experience** | Active PM at a startup, shipping live products for real clients. Previously evaluated AI prototypes at IceCream Labs (Moto.Vista.AI) for SME usability. |
+| ✅ **Student / fresh graduate** | VIT Vellore graduate (Class of 2025) — CS + Business Systems (in collaboration with TCS). |
+| ✅ **Curious about AI, product, and user needs** | Formally trained in Data Science & ML under Mr. Pradeep Varadarajan. Studying product-led growth, feature prioritisation (RICE/ICE/MoSCoW), and LLM applications in parallel. |
+| ✅ **Strong problem solving and ownership** | Took full accountability on the patent — problem scoping, architecture, testing, documentation, formal filing. No co-PI, no supervisor. |
+| ✅ **Quick learner with a builder mindset** | Delivered 7+ production-grade client projects across sectors I had never worked in before — real estate, FMCG, healthcare, education — within months of joining Vyuha. |
+
+---
+
 ## Published Patent
 
 **AI-Driven Stray Animal Behavior Monitoring System for Residential Areas**
@@ -48,9 +65,13 @@ I don't just build models — I scope problems, own delivery, and drive outcomes
 | Applicant | Vellore Institute of Technology |
 | Status | ✅ Officially Published |
 
-**Tech Stack:** Python · CNN · LSTM · OpenCV · DeepLabCut · TensorFlow
+**Pipeline:** CCTV Feed → Frame Extraction (OpenCV) → Pose Estimation (DeepLabCut · 24 keypoints) → CNN Feature Extraction → LSTM Temporal Analysis → Real-time Alert (< 2s)
+
+**Tech Stack:** `Python` `CNN` `LSTM` `OpenCV` `DeepLabCut` `TensorFlow` `Keras` `Scikit-learn`
 
 Built end-to-end — problem scoping, architecture design, model training, documentation, and formal IP filing — with zero institutional support.
+
+**Key Metrics:** 96% emotion classification accuracy · <2s alert latency · 4 behaviour classes · 24 body keypoints tracked · Addresses UN SDGs 11 & 15
 
 ---
 
@@ -63,36 +84,39 @@ Built end-to-end — problem scoping, architecture design, model training, docum
 | **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **BI & Analytics** | ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 | **Cloud & Platforms** | ![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white) |
-| **PM & Strategy** | Agile · Scrum · Product Roadmapping · ERP · CRM · Brand DNA |
+| **PM & Strategy** | Agile · Scrum · Product Roadmapping · OKRs · ERP · CRM · Brand DNA |
 
 ---
 
 ## Projects
 
-### 🐾 AI-Driven Behavior Monitoring System *(Published Patent)*
-Real-time CCTV-based stray animal behavior detection using pose estimation and deep learning. DeepLabCut extracts 24-point body keypoints; CNN-LSTM classifies behavioral sequences. Zero additional hardware — runs on existing CCTV infrastructure.
+### 🐾 AI-Driven Behavior Monitoring System *(Published Patent — IPO India)*
+Real-time CCTV-based stray animal behavior detection using pose estimation and deep learning. DeepLabCut extracts 24-point body keypoints; CNN-LSTM classifies behavioral sequences with 96% accuracy. Zero additional hardware — runs on existing CCTV infrastructure. Sub-2-second real-time alert generation.
 
 ### 📊 E-Commerce Customer Segmentation & Revenue Optimisation
-RFM segmentation across **5,000 customers** and **50,000 transactions**. Identified high-value cohorts driving **55% of total revenue**. Built retention strategies across 9 distinct customer segments.
+RFM segmentation across **5,000 customers** and **50,000 transactions**. Identified high-value cohorts driving **55% of total revenue**. Built retention strategies across 9 distinct customer segments — loyal, at-risk, and churn-prone.
 `SQL` `Python` `Tableau` `Power BI` `Excel`
 
 ### 🏥 AI-Powered Chronic Disease Risk Assessment
-Full project lifecycle from data sourcing to stakeholder delivery. Interactive dashboard for non-technical medical staff — reduced manual patient data review workflows by **50%**.
+Full project lifecycle from data sourcing to stakeholder delivery. Interactive dashboard for non-technical medical staff — **reduced manual patient data review by 50%** and directly influenced care decisions.
 `Python` `SQL` `Scikit-learn` `Power BI` `Streamlit`
 
 ### 🌐 7+ Production Websites & Business Platforms *(Vyuha Innovation Foundation)*
-As PM, coordinated and shipped live digital products for clients across real estate, healthcare, education, FMCG, and political offices — including nicehomesdevelopers.com, ivyuha.com, globaldegrees.in and more.
+As PM, coordinated and shipped live digital products for clients across real estate, healthcare, education, FMCG, and political offices — including [nicehomesdevelopers.com](https://www.nicehomesdevelopers.com/), [ivyuha.com](https://www.ivyuha.com/), [globaldegrees.in](https://globaldegrees.in/) and more.
 `ERP` `CRM` `Web Dev` `Brand DNA` `Agile`
 
 ---
 
 ## Experience
 
-**Project Manager** — Vyuha Innovation Foundation *(Current)*
-Led delivery of 7+ live client projects spanning ERP, CRM, website development, digital marketing, and brand strategy. Clients include Nice Homes Developers, Bhavani Hospital, Global Degrees, Midland Real Estate, Stay More Sanitary Pads, and more.
+**Project Manager** — Vyuha Innovation Foundation *(Feb 2026 – Present)*
+Led end-to-end delivery of ERP, CRM, and website projects for 7+ B2B and B2C clients across real estate, education, FMCG, and hospitality. Managed client onboarding, cross-functional coordination, Brand DNA creation, digital marketing, and influencer outreach (50+ AP influencers).
 
 **AI Prototype Evaluator** — IceCream Labs (Moto.Vista.AI)
 Evaluated AI prototypes for SME usability and analytical accuracy.
+
+**Data Science & ML Training** — Under Mr. Pradeep Varadarajan *(Aug – Dec 2025)*
+6-month intensive programme in applied Data Science and Machine Learning. Built analytical workflows, predictive models, and stakeholder-ready dashboards.
 
 ---
 
@@ -109,6 +133,16 @@ Evaluated AI prototypes for SME usability and analytical accuracy.
 
 ---
 
+## Currently Exploring
+
+- 🤖 **Agentic AI & LLM Applications** — how small teams leverage AI agents for 10× output
+- 📦 **Product Strategy & Growth** — PLG frameworks, RICE/ICE prioritisation, AI-to-product value translation
+- 📊 **AI in Business Intelligence** — NL-to-SQL, predictive dashboards, AI analyst toolkits for non-technical decision-makers
+
+**AI / Product Interests:** Generative AI · LLMOps · RAG Systems · Prompt Engineering · AI Product Management · Computer Vision · No-Code/Low-Code AI · Data-Driven PM · AI-Enabled CRM · GTM Strategy · Revenue Operations · Startup Ecosystems
+
+---
+
 ## Open To
 
 ```
@@ -116,9 +150,8 @@ Evaluated AI prototypes for SME usability and analytical accuracy.
 → Entry-Level AI/ML & AI Engineer Roles
 → Project Management & Project Manager Roles
 → GTM, Growth & Revenue Operations Roles
+→ AI Product Management Roles
 ```
-
----
 
 ---
 
